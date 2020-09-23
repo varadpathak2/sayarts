@@ -1,9 +1,4 @@
 {
-  "class" : "Assistant Photographers",
-  "Joined Since" : 2016,
-  "active" : true,
-  "members" : [
-    {
       "name" : "Kyle",
       "age" : 24,
       "country" : "India"
@@ -24,5 +19,3 @@
       "image" : "https://github.com/varadpathak2/sayarts/Superb/pro-photographer.jpg"
       "Profile" : "Events",
     }
-  ]
-}
