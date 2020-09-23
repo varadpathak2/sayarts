@@ -6,22 +6,22 @@
     {
       "name" : "Kyle",
       "age" : 24,
-      "country":"India"
-      "image":"https://github.com/varadpathak2/sayarts/Superb/1515136552-blog-featured1.jpg"
+      "country" : "India"
+      "image" : "https://github.com/varadpathak2/sayarts/Superb/1515136552-blog-featured1.jpg"
       "Profile" : "Wildlife",
     },
     {
       "name" : "Kellie",
       "age" : 24,
       "country":"Singapore"
-      "image":"https://github.com/varadpathak2/sayarts/Superb/fcover-15.jpg"
+      "image" : "https://github.com/varadpathak2/sayarts/Superb/fcover-15.jpg"
       "Profile" : "Wedding",
     },
     {
       "name" : "Jason",
       "age" : 24,
       "country":"India"
-      "image":"https://github.com/varadpathak2/sayarts/Superb/pro-photographer.jpg"
+      "image" : "https://github.com/varadpathak2/sayarts/Superb/pro-photographer.jpg"
       "Profile" : "Events",
     }
   ]
