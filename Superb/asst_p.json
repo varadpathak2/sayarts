@@ -1,4 +1,9 @@
 {
+  "class" : "Assistant Photographers",
+  "Joined" : 2019,
+  "active" : true,
+  "members" : [
+      
       "name" : "Kyle",
       "age" : 24,
       "country" : "India"
